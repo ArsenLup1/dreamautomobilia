@@ -25,7 +25,7 @@ const Header = (props) => {
 
   const MenuHeader=[
     {
-        texte:"LA FEDERATION",
+        texte:"QUI SOMMES NOUS",
         altT:"",
         chemin:"/qui-sommes-nous",
     },
@@ -40,12 +40,17 @@ const Header = (props) => {
         chemin:"/nos-accreditations",
     },
     {
-        texte:"REGLEMENTATION",
+        texte:"NOS PARTENAIRES",
         altT:"",
         chemin:"/contact",
     },
     {
         texte:"ACTUALITE",
+        altT:"",
+        chemin:"/contact",
+    },
+    {
+        texte:"CONTACTS",
         altT:"",
         chemin:"/contact",
     }
