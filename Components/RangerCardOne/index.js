@@ -7,7 +7,7 @@ const RangerCardImage = () => {
 
   return (
       <RangerCardOneStc>
-          <div className="container mx-auto">
+          <div className="container-fluid">
 <div className="row p-2">
     <div className="col px-2">
         <div className="card bg-secondary m-2 p-3 mt-5 w-75 h-80 maarif">
