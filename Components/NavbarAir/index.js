@@ -30,29 +30,29 @@ const Header = (props) => {
         chemin:"/qui-sommes-nous",
     },
     {
-        texte:"ADHERENTS",
+        texte:"ADHESION",
         altT:"",
-        chemin:"nos-laboratoire",
+        chemin:"adhesion",
     },
     {
-        texte:"PROGRAMME",
+        texte:"NOS DELEGATIONS",
         altT:"",
-        chemin:"/nos-accreditations",
+        chemin:"/nos-delegations",
     },
     {
         texte:"NOS PARTENAIRES",
         altT:"",
-        chemin:"/contact",
+        chemin:"/nos-partenaires",
     },
     {
-        texte:"ACTUALITE",
+        texte:"ACTUALITES",
         altT:"",
-        chemin:"/contact",
+        chemin:"/actualités",
     },
     {
         texte:"CONTACTS",
         altT:"",
-        chemin:"/contact",
+        chemin:"/contacts",
     }
 ]
 
