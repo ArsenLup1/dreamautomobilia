@@ -6,6 +6,9 @@ const RangerCardOneStc = Styled.div`
     //overflow: auto;
     margin: 0;
     padding-bottom: 1rem;
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(45deg, black, transparent);
 
     .card{
         border-radius: 1.5rem;
